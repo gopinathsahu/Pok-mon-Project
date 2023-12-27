@@ -1,0 +1,35 @@
+.Pockemon-wrapper-List{
+   text-align: center;
+   margin-top: 2rem ;
+    font-weight: 800;
+    font-size: x-large;
+    display: flex;
+    flex-direction: column;
+align-items: center;
+    
+}
+.pokemon-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+.controls{
+    margin-top: 25px;
+    
+}
+.controls button {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-left: 1rem;
+    border-radius: 20px;
+    
+}
+button:hover{
+    background-color: rgb(60, 26, 26);
+    color: whitesmoke;
+    border: 1px solid wheat;
+}
