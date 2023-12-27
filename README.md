@@ -1,8 +1,14 @@
-# React + Vite
+# POKEMON -PROJECT 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+in this project we fetch the data from the API and display on the screen
+to fetch the data from the API we use the axios.
+to use the axios we have to install--- npm install axios
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+API="https://pokeapi.co/api/v2/pokemon/";
+in this project we mustly use the HOOK concept.
+1.useState
+2.useEffect
+3.Router
+
+
